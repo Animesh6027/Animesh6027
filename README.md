@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Singh</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitesh Bhardwaj" alt="Nitesh Bhardwaj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Animesh6027" alt="Nitesh-Bhardwaj-git"  /></a> </p>
 
 - 📫 How to reach me **kumarnitesh52864@gmail.com**
 
