@@ -24,18 +24,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Animesh6027/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Animesh6027/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Akash-raj-INT/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Animesh6027/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-raj-int&" alt="Akash-raj-int" /></p>
-
-<img src="https://raw.githubusercontent.com/Akash-raj-INT/Akash-raj-INT/output/snake.svg" alt="Snake animation" />
