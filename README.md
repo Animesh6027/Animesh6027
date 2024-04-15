@@ -19,20 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Animesh6027&show_icons=true&locale=en&layout=compact" alt="Animesh Singh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Animesh6027&show_icons=true&locale=en" alt="Animesh Singh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh6027&" alt="Animesh Singh" /></p>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Animesh6027/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Animesh6027/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Animesh6027/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
